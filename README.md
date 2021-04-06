@@ -44,6 +44,8 @@ Areas to improve/concern:
 - Needs more extraction to get it to be more object orientated/srp.
 - Cool next steps would be to build a web app and database for the program.
 
+- Miro Board with logic
+    - https://miro.com/app/board/o9J_lLjv0EE=/
 
 
 # Original Instructions
